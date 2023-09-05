@@ -1,0 +1,15 @@
+D:\Projects\free_code_camp\C#\intro_to_csharp\bin\Debug\net7.0\intro_to_csharp.exe
+D:\Projects\free_code_camp\C#\intro_to_csharp\bin\Debug\net7.0\intro_to_csharp.deps.json
+D:\Projects\free_code_camp\C#\intro_to_csharp\bin\Debug\net7.0\intro_to_csharp.runtimeconfig.json
+D:\Projects\free_code_camp\C#\intro_to_csharp\bin\Debug\net7.0\intro_to_csharp.dll
+D:\Projects\free_code_camp\C#\intro_to_csharp\bin\Debug\net7.0\intro_to_csharp.pdb
+D:\Projects\free_code_camp\C#\intro_to_csharp\obj\Debug\net7.0\intro_to_csharp.csproj.AssemblyReference.cache
+D:\Projects\free_code_camp\C#\intro_to_csharp\obj\Debug\net7.0\intro_to_csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\free_code_camp\C#\intro_to_csharp\obj\Debug\net7.0\intro_to_csharp.AssemblyInfoInputs.cache
+D:\Projects\free_code_camp\C#\intro_to_csharp\obj\Debug\net7.0\intro_to_csharp.AssemblyInfo.cs
+D:\Projects\free_code_camp\C#\intro_to_csharp\obj\Debug\net7.0\intro_to_csharp.csproj.CoreCompileInputs.cache
+D:\Projects\free_code_camp\C#\intro_to_csharp\obj\Debug\net7.0\intro_to_csharp.dll
+D:\Projects\free_code_camp\C#\intro_to_csharp\obj\Debug\net7.0\refint\intro_to_csharp.dll
+D:\Projects\free_code_camp\C#\intro_to_csharp\obj\Debug\net7.0\intro_to_csharp.pdb
+D:\Projects\free_code_camp\C#\intro_to_csharp\obj\Debug\net7.0\intro_to_csharp.genruntimeconfig.cache
+D:\Projects\free_code_camp\C#\intro_to_csharp\obj\Debug\net7.0\ref\intro_to_csharp.dll
